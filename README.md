@@ -24,4 +24,4 @@ PHP : php 7.2.3
 전체 옵션에 대해서는 확인하지 못했다.<br/>
 검색해서 찾아본 예시대로 추가 또는 수정을 했다.<br/>
 <br/>
-참고 사이트 : ['http://jmoon.co.kr/m/107'](http://jmoon.co.kr/m/107)
+참고 사이트 : [http://jmoon.co.kr/m/107](http://jmoon.co.kr/m/107)
