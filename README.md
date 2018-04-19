@@ -16,7 +16,8 @@ PHP : php 7.2.3
         Require all granted
 </Directory>
 ```
-
+경로 : /etc/apache2/apache2.conf 파일 수정<br/>
+<br/>
 **MultiViews** 추가<br/>
 **AddType application/x-httpd-php .php** 추가<br/>
 **AllowOverride None -> AllowOverride All** 수정<br/>
